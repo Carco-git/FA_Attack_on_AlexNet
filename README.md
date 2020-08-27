@@ -33,5 +33,5 @@ def loss(self, x):
         return self.loss_value
 ```
 
-## Blog(To be added)
-[TODO](https://blog.andrmapper.cn/)
+## Blog(Written in Chinese)
+[FA Attack](https://blog.andrmapper.cn/2020/08/28/FA-Attack论文复现/)
