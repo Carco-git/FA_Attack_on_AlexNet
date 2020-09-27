@@ -1,5 +1,5 @@
 # FA_attack_on_AlexNet
-Code of [Adversarial Manipulation of Deep Representations](https://arxiv.org/abs/1511.05122) 
+Replicate ode of [Adversarial Manipulation of Deep Representations](https://arxiv.org/abs/1511.05122) 
 Feature adversaries attack on AlexNet in PyTorch.
 
 ## Data
